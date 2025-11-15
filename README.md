@@ -17,6 +17,50 @@ A fully interactive **Power BI Attendance Tracking System** designed to monitor,
 ### 🗂 Complete Data (Yearly) 
 - <a href="https://github.com/bhagyashrininawe/AttendenceTracker/blob/main/final%20attendence%20data.xlsx">Final dataset</a>
 
+## 🧠 Skills & Tools Used
+### 📌 Power BI
+- Data Modeling  
+- Power Query  
+- DAX Calculations  
+- KPI Cards & Visualizations  
+- Interactive Filters and Slicers  
+
+### 📌 Excel
+- Data Cleaning  
+- Formatting & Standardizing  
+- Raw Data Preparation
+
+## 🗂 Dashboard 
+- <img width="1169" height="653" alt="Dashbord Imp" src="https://github.com/user-attachments/assets/360262fc-dece-46a3-b221-aa3e6147a9c6" />
+
+## 📈 Dashboard Features
+### ➤ 1. **Attendance Overview**
+- Total Present / Absent Days  
+- Attendance %  
+- Late Arrivals  
+- KPI Indicators  
+
+### ➤ 2. **Monthly Trend**
+- Monthly attendance chart  
+- Daily present/absent pattern  
+
+### ➤ 3. **Employee/Student Summary**
+- Individual attendance breakdown  
+- Comparison with team/class  
+
+### ➤ 4. **Department/Class Filters**
+- Department-wise or class-wise attendance view
+
+  ## 🗂 Interactive Dashboard 
+- <a href="https://github.com/bhagyashrininawe/AttendenceTracker/blob/main/Attendance%20Tracker%20Dashbord.pbix">View Dashboard</a>
+
+## 🧩 How to Use This Project
+1. Download all files from the repository.  
+2. Open **Attendance Tracker Dashboard.pbix** in Power BI Desktop.  
+3. Keep the Excel files in the same folder to maintain data connections.  
+4. Click **Refresh** in Power BI.  
+5. Dashboard updates automatically with new attendance data.
+
 
 
 
