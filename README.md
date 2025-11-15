@@ -2,8 +2,8 @@
 
 A fully interactive **Power BI Attendance Tracking System** designed to monitor, analyze, and visualize employee or student attendance with automated calculations, clean data modeling, and dynamic insights.
 
-### 🗂 Attendance Sheet
-- <a href="https://github.com/bhagyashrininawe/AttendenceTracker/blob/main/attendence%20sheet%20P.xlsx">Sheet file</a>
+- ### 🗂 Attendance Sheet
+ <a href="https://github.com/bhagyashrininawe/AttendenceTracker/blob/main/attendence%20sheet%20P.xlsx">Sheet file</a>
 
 ## 🔥 Project Highlights
 - ✔ Automated Attendance Analysis  
@@ -14,8 +14,8 @@ A fully interactive **Power BI Attendance Tracking System** designed to monitor,
 - ✔ Easy-to-update model (replace Excel file & refresh)  
 - ✔ Modern and clean dashboard UI
 
-### 🗂 Complete Data (Yearly) 
-- <a href="https://github.com/bhagyashrininawe/AttendenceTracker/blob/main/final%20attendence%20data.xlsx">Final dataset</a>
+- ### 🗂 Complete Data (Yearly) 
+ <a href="https://github.com/bhagyashrininawe/AttendenceTracker/blob/main/final%20attendence%20data.xlsx">Final dataset</a>
 
 ## 🧠 Skills & Tools Used
 ### 📌 Power BI
@@ -30,8 +30,8 @@ A fully interactive **Power BI Attendance Tracking System** designed to monitor,
 - Formatting & Standardizing  
 - Raw Data Preparation
 
-## 🗂 Dashboard 
-- <img width="1169" height="653" alt="Dashbord Imp" src="https://github.com/user-attachments/assets/360262fc-dece-46a3-b221-aa3e6147a9c6" />
+- ### 🗂 Dashboard 
+ <img width="1169" height="653" alt="Dashbord Imp" src="https://github.com/user-attachments/assets/360262fc-dece-46a3-b221-aa3e6147a9c6" />
 
 ## 📈 Dashboard Features
 ### ➤ 1. **Attendance Overview**
@@ -51,8 +51,8 @@ A fully interactive **Power BI Attendance Tracking System** designed to monitor,
 ### ➤ 4. **Department/Class Filters**
 - Department-wise or class-wise attendance view
 
-  ## 🗂 Interactive Dashboard 
-- <a href="https://github.com/bhagyashrininawe/AttendenceTracker/blob/main/Attendance%20Tracker%20Dashbord.pbix">View Dashboard</a>
+  - ### 🗂 Interactive Dashboard 
+  <a href="https://github.com/bhagyashrininawe/AttendenceTracker/blob/main/Attendance%20Tracker%20Dashbord.pbix">View Dashboard</a>
 
 ## 🧩 How to Use This Project
 1. Download all files from the repository.  
